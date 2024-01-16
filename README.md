@@ -56,21 +56,21 @@
       href="https://twitter.com/Nagisa7227"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
+        src="https://img.shields.io/badge/Nagisa72-22092C?style=flat-square&logo=x"
         alt="twitter" />
     </a>
     <a
       href="https://www.linkedin.com/in/ale-roses/"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
+        src="https://img.shields.io/badge/Nagisa72-black?style=social&logo=linkedin"
         t="linkedin" />
     </a>
     <a
       href="https://github.com/Nagisa27"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/Nagisa27-black?style=flat-square&logo=github"
+        src="https://img.shields.io/badge/Nagisa72-black?style=flat-square&logo=github"
         t="github" />
     </a>
     
