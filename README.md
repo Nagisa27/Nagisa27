@@ -70,7 +70,7 @@
       href="https://github.com/Nagisa27"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
+        src="https://img.shields.io/badge/Nagisa27-black?style=flat-square&logo=github"
         t="github" />
     </a>
     
