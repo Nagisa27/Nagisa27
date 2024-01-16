@@ -67,7 +67,7 @@
         t="linkedin" />
     </a>
     <a
-      href="https://github.com/Nagisa7227"
+      href="https://github.com/Nagisa27"
       target="_blank">
       <img
         src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
