@@ -9,9 +9,9 @@
 
 <img
     align="right"
-    width="260"
+    width="500"
     alt="Shimarin"
-    src="./assets/mf-heavy.gif" />
+    src="./assets/nagisa.gif" />
 
   <h2>
     <picture
