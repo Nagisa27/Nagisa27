@@ -38,7 +38,7 @@
 <h2>
   <picture
     ><img
-      src="./assets/hollor_knight3.gif"
+      src="./assets/pikachu..gif"
       width="25px"
   /></picture>
   / How to reach me /
