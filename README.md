@@ -55,9 +55,9 @@
         alt="twitter" />
     </a>
     <a
-    href="https://instagram.com/Iam_nagisapwp_"
+    href="https://instagram.com/nagisapwp"
     target="_blank">
-      <img alt="Static Badge" src="https://www.instagram.com/nagisapwp/">
+      <img alt="Static Badge" src="https://img.shields.io/badge/nagisapwp-black?style=flat&logo=instagram&logoColor=%23cd486b&color=%23fccc63">
     </a>
     <a
       href="https://github.com/Nagisa27"
