@@ -31,10 +31,8 @@
   </h2>
 
   <div>
-    <img src="./assets/html.gif" width="50px" />
+   <img src="./assets/html.gif" width="50px" />
     <img src="./assets/css.gif" width="50px" />
-    <img src="./assets/js.gif" width="50px" />
-    <img src="./assets/react.gif" width="50px" />
   </div>
 
 <h2>
