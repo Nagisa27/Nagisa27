@@ -55,11 +55,9 @@
         alt="twitter" />
     </a>
     <a
-      href="https://www.linkedin.com/in/ale-roses/"
-      target="_blank">
-      <img
-        src="https://img.shields.io/badge/Nagisa72-black?style=social&logo=linkedin"
-        t="linkedin" />
+    href="https://instagram.com/Iam_nagisapwp_"
+    target="_blank">
+      <img alt="Static Badge" src="https://www.instagram.com/nagisapwp/">
     </a>
     <a
       href="https://github.com/Nagisa27"
