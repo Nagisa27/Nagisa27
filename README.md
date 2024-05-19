@@ -4,7 +4,7 @@
 
 <img
     align="right"
-    width="500"
+    width="900"
     alt="Shimarin"
     src="./assets/nagisa.gif" />
 
