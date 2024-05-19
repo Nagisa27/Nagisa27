@@ -10,7 +10,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/monito.gif" width="25px"
+      ><img src="./assets/mew.gif" width="25px"
     /></picture>
     / About me /
   </h2>
