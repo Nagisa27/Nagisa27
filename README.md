@@ -25,7 +25,8 @@
 
   <h2>
     <picture
-      ><img src="./assets/monito.gif" width="25px"
+      ><img src= ![monito jsjs](https://github.com/Nagisa27/Nagisa27/assets/152904342/20252f95-d82c-47d9-aa69-80de6c82d2d2)
+ width="25px"
     /></picture>
     / Current skills /
   </h2>
