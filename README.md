@@ -10,7 +10,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/mew.gif" width="25px"
+      ><img src="./assets/haker.gif" width="25px"
     /></picture>
     / About me /
   </h2>
