@@ -4,13 +4,13 @@
 
 <img
     align="right"
-    width="600"
+    width="500"
     alt="Shimarin"
     src="./assets/nagisa.gif" />
 
   <h2>
     <picture
-      ><img src="./assets/sapo.gif" width="25px"
+      ><img src="./assets/haker.gif" width="25px"
     /></picture>
     / About me /
   </h2>
@@ -25,7 +25,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/mew.gif" width="25px"
+      ><img src="./assets/monito.gif" width="25px"
     /></picture>
     / Current skills /
   </h2>
