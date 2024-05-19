@@ -9,8 +9,9 @@
     src="./assets/nagisa.gif" />
 
   <h2>
-    <picture
-      ><img src="./assets/haker.gif" width="25px"
+    <picture![haker](https://github.com/Nagisa27/Nagisa27/assets/152904342/e91a5ae7-24b5-4d36-96b2-577e0604888b)
+
+      <img src= width="25px"
     /></picture>
     / About me /
   </h2>
