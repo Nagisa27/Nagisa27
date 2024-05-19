@@ -2,11 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=999&size=40&pause=1000&color=0322B5&random=false&width=600&height=60&lines=Welcome+my+name+is+Nagisa;Software+Developer;I+like+programming" alt="Typing SVG" /></a>
   </div>
 
-<img
-    align="right"
-    width="500"
-    alt="Shimarin"
-    src="./assets/nagisa.gif" />
+
 
   <h2>
     <picture
